@@ -1,3 +1,4 @@
+#test
 FROM node:19.4.0-bullseye-slim
 
 MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
